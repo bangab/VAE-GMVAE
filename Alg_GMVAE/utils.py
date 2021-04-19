@@ -19,7 +19,7 @@ import tensorflow as tf
 
 from tensorflow.examples.tutorials.mnist import input_data
 
-from utils.dataset import Dataset
+from dataset import Dataset
 
 from scipy.io import loadmat
 '''  ------------------------------------------------------------------------------
