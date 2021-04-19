@@ -2,7 +2,7 @@ import json
 from bunch import Bunch
 import os
 import argparse
-import utils.constants as const
+import constants as const
 
 
 def parser_basic():
